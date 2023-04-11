@@ -141,9 +141,9 @@ export default function Header() {
           </a>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
-            Log in <span aria-hidden="true">&rarr;</span>
-          </a>
+          <button className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black ">
+            Book Intro Call
+          </button>
         </div>
       </nav>
       <Dialog
@@ -223,12 +223,9 @@ export default function Header() {
                 </a>
               </div>
               <div className="py-6">
-                <a
-                  href="#"
-                  className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                >
-                  Log in
-                </a>
+                <button className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black ">
+                  Book Intro Call
+                </button>
               </div>
             </div>
           </div>
