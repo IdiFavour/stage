@@ -18,20 +18,21 @@ import {
   FcManager,
 } from "react-icons/fc";
 
-export default function Services() {
+export default function Industries() {
   return (
     <Box p={4}>
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="grid  grid-cols-1  lg:grid-cols-2 ">
           <div>
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Our Digital <br /> Marketing Services
+              Our Industries
             </h1>
             <p className="mt-6 text-base leading-7 text-gray-600">
-              We’re experts in all things marketing. Business-to-business,
-              cryptocurrency,NFT, and high-growth startup brands are our sweet
-              spot. Discover how we can scale your business to new heights
-              through our strategic services below:
+              Our creative digital marketing firm has helped a diverse range of
+              businesses and organizations achieve their advertising objectives.
+              With extensive experience working in numerous industries, we have
+              the insights and expertise to help you discover your true
+              potential.
             </p>
           </div>
         </div>
