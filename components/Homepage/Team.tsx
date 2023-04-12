@@ -203,9 +203,12 @@ export default function Team() {
             help you grow.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
-            <button className=" bg-white px-10 py-4 text-sm font-semibold text-black">
+            <a
+              href="/contact"
+              className=" bg-white px-10 py-4 text-sm font-semibold text-black"
+            >
               Get in touch
-            </button>
+            </a>
           </div>
         </div>
       </div>

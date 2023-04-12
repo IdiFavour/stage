@@ -282,7 +282,7 @@ export default function Header() {
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a
-            href="#contactForm"
+            href="https://calendly.com/idifavour/meetings"
             className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black "
           >
             Book Intro Call
@@ -432,7 +432,7 @@ export default function Header() {
                   )}
                 </Disclosure>
                 <a
-                  href="#"
+                  href="/contact"
                   className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                 >
                   Contact
@@ -440,7 +440,7 @@ export default function Header() {
               </div>
               <div className="py-6">
                 <a
-                  href="#contactForm"
+                  href="https://calendly.com/idifavour/meetings"
                   className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black "
                 >
                   Book Intro Call
