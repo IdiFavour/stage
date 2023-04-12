@@ -11,7 +11,11 @@ import {
 
 export default function Team() {
   return (
-    <div className="bg-black">
+    <div
+      style={{
+        background: "#121212",
+      }}
+    >
       <div className="mx-auto max-w-7xl py-24 sm:py-48 lg:py-36 px-2 lg:px-8">
         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl pb-10">
           Our Team
@@ -205,7 +209,10 @@ export default function Team() {
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
               href="/contact"
-              className=" bg-white px-10 py-4 text-sm font-semibold text-black"
+              className=" bg-white px-10 py-4 text-sm font-semibold"
+              style={{
+                color: "#121212",
+              }}
             >
               Get in touch
             </a>

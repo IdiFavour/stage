@@ -283,7 +283,11 @@ export default function Header() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a
             href="https://calendly.com/idifavour/meetings"
-            className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black "
+            className=" bg-white-600 px-8 py-2 text-sm font-semibold border-2"
+            style={{
+              color: "#121212",
+              borderColor: "#121212",
+            }}
           >
             Book Intro Call
           </a>
@@ -441,7 +445,11 @@ export default function Header() {
               <div className="py-6">
                 <a
                   href="https://calendly.com/idifavour/meetings"
-                  className=" bg-white-600 px-8 py-2 text-sm font-semibold text-black border-2 border-black "
+                  className=" bg-white-600 px-8 py-2 text-sm font-semibold border-2"
+                  style={{
+                    color: "#121212",
+                    borderColor: "#121212",
+                  }}
                 >
                   Book Intro Call
                 </a>

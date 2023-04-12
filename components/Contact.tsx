@@ -11,8 +11,11 @@ export default function Contact() {
 
   return (
     <div
-      className="isolate bg-black px-2 py-24 sm:py-20 lg:px-8"
+      className="isolate px-2 py-24 sm:py-20 lg:px-8"
       id="contactForm"
+      style={{
+        background: "#121212",
+      }}
     >
       <div className="overflow-hidden py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -100,7 +103,12 @@ export default function Contact() {
               </div>
             </div>
             <div className="bg-slate-100 p-5 rounded">
-              <h2 className="text-4xl font-semibold leading-7 text-black">
+              <h2
+                className="text-4xl font-semibold leading-7 "
+                style={{
+                  color: "#121212",
+                }}
+              >
                 Tell us about you.
               </h2>
               <form

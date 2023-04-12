@@ -6,6 +6,7 @@ import Industries from "@/components/Industries";
 import Team from "@/components/Homepage/Team";
 import Clients from "@/components/Homepage/Clients";
 import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <div>

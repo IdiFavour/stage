@@ -22,7 +22,12 @@ export default function HeroBanner() {
         </div>
         <div className="mx-auto max-w-4xl py-24 sm:py-48 lg:py-24">
           <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+            <h1
+              className="text-4xl font-bold tracking-tight sm:text-6xl"
+              style={{
+                color: "#121212",
+              }}
+            >
               Your Full Service Digital Marketing Company <br />
               For Startup
             </h1>
@@ -32,9 +37,16 @@ export default function HeroBanner() {
               creative design.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <button className=" bg-white-600 px-10 py-4 text-sm font-semibold text-black border-2 border-black ">
+              <a
+                href="#contactForm"
+                className=" bg-white-600 px-10 py-4 text-sm font-semibold border-2 "
+                style={{
+                  color: "#121212",
+                  borderColor: "#121212",
+                }}
+              >
                 Request A Free Proposal
-              </button>
+              </a>
               <button className="text-sm font-semibold px-10 py-4 leading-6 text-gray-900">
                 Meet Stage <span aria-hidden="true">→</span>
               </button>
