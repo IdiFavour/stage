@@ -21,7 +21,7 @@ import {
 export default function Industries() {
   return (
     <Box p={4}>
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-2 lg:px-8">
         <div className="grid  grid-cols-1  lg:grid-cols-2 ">
           <div>
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">

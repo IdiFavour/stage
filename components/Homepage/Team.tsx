@@ -12,7 +12,7 @@ import {
 export default function Team() {
   return (
     <div className="bg-black">
-      <div className="mx-auto max-w-7xl py-24 sm:py-48 lg:py-36 px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl py-24 sm:py-48 lg:py-36 px-2 lg:px-8">
         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl pb-10">
           Our Team
         </h1>
@@ -191,7 +191,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        <div className="text-center pt-20">
+        <div className="lg:text-center pt-20 px-4">
           <h1 className="text-4xl  tracking-tight text-white sm:text-5xl">
             Talk to a Full-Service Digital Marketing Agency About Your Business
             Goal
