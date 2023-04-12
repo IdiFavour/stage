@@ -25,7 +25,7 @@ export default function Services() {
         <div className="grid  grid-cols-1  lg:grid-cols-2 ">
           <div>
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Our Digital <br /> Marketing Services
+              Our Digital <br className="hidden lg:block" /> Marketing Services
             </h1>
             <p className="mt-6 text-base leading-7 text-gray-600">
               We’re experts in all things marketing. Business-to-business,

@@ -3,7 +3,7 @@ const Action = () => {
     <div className="bg-black">
       <div className="relative isolate px-6 ">
         <div className="mx-auto max-w-7xl py-24 sm:py-48 lg:py-36 px-6 lg:px-8">
-          <div className="text-center">
+          <div className="lg:text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">
               Partner With a Digital Marketing Agency That Delivers Growth
             </h1>
