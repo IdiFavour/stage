@@ -57,7 +57,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Social Media
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -82,7 +82,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    SEO
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -107,7 +107,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Video Production
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -132,7 +132,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Video Marketing
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -157,7 +157,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Branding
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -182,7 +182,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Email Marketing
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -207,7 +207,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Web Development
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -232,7 +232,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
+                    Web Design
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing
@@ -257,32 +257,7 @@ export default function Services() {
                         />
                       </svg>
                     </div>
-                    Push to deploy
-                  </dt>
-                  <div className="mt-4 text-sm leading-normal text-gray-500">
-                    Morbi viverra dui mi arcu sed. Tellus semper adipiscing
-                    suspendisse semper morbi. Odio urna massa nunc massa.
-                  </div>
-                </div>
-                <div className="relative">
-                  <dt className="text-base font-semibold leading-7 text-gray-900 pl-12 pt-1">
-                    <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center">
-                      <svg
-                        className="h-10 w-10 text-white"
-                        fill="black"
-                        viewBox="0 0 24 24"
-                        stroke-width="1.5"
-                        stroke="currentColor"
-                        aria-hidden="true"
-                      >
-                        <path
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          d="M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z"
-                        />
-                      </svg>
-                    </div>
-                    Push to deploy
+                    Paid Media ROI
                   </dt>
                   <div className="mt-4 text-sm leading-normal text-gray-500">
                     Morbi viverra dui mi arcu sed. Tellus semper adipiscing

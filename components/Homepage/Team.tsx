@@ -53,14 +53,12 @@ export default function Team() {
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
-                <Avatar
-                  src={"https://avatars0.githubusercontent.com/u/1164541?v=4"}
-                />
+                <Avatar src={"/shohin.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
                     Achim Rolle
                   </Text>
-                  <Text color={"gray"}>Founder </Text>
+                  <Text color={"gray"}>Founder and CEO</Text>
                 </Stack>
               </Stack>
             </Box>
@@ -97,14 +95,12 @@ export default function Team() {
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
-                <Avatar
-                  src={"https://avatars0.githubusercontent.com/u/1164541?v=4"}
-                />
+                <Avatar src={"/headofteam.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
                     Achim Rolle
                   </Text>
-                  <Text color={"gray"}>Chief Technical Officer </Text>
+                  <Text color={"gray"}>Head of Team</Text>
                 </Stack>
               </Stack>
             </Box>
@@ -118,19 +114,22 @@ export default function Team() {
               overflow={"hidden"}
             >
               <Stack>
-                <Text
-                  color={"green.500"}
-                  textTransform={"uppercase"}
-                  fontWeight={800}
-                  fontSize={"sm"}
-                  letterSpacing={1.1}
+                <img
+                  className="col-span-2 max-h-12 object-contain lg:col-span-1"
+                  src="https://ninjapromo.io/wp-content/themes/ninjapromo/assets/img/reviews-section/logo-1.png"
+                  alt="Transistor"
+                  width={158}
+                  height={48}
+                />
+                <Heading
+                  color={"white"}
+                  py={4}
+                  fontSize={"lg"}
+                  fontFamily={"body"}
                 >
-                  Company Logo
-                </Text>
-                <Heading color={"white"} fontSize={"lg"} fontFamily={"body"}>
                   Boost your conversion rate
                 </Heading>
-                <Text color={"white"}>
+                <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
                   aliquyam erat, sed diam voluptua. At vero eos et accusam et
@@ -138,14 +137,12 @@ export default function Team() {
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
-                <Avatar
-                  src={"https://avatars0.githubusercontent.com/u/1164541?v=4"}
-                />
+                <Avatar src={"/copywriter.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
                     Achim Rolle
                   </Text>
-                  <Text color={"gray"}>Feb 08, 2021</Text>
+                  <Text color={"gray"}>Copywriter</Text>
                 </Stack>
               </Stack>
             </Box>
@@ -201,10 +198,14 @@ export default function Team() {
             Goal
           </h1>
           <p className="mt-6 text-base leading-7 text-white">
-            At NinjaPromo, we’re passionate about helping businesses reach their
-            maximum potential online. Tell us a little about your brand and what
-            you hope to achieve, and we’ll be in touch to discuss how we can
-            help you grow.
+            If you decide to work with us as your social media management
+            company, you can relax knowing that your brand is in capable hands.
+            We are dedicated to providing outstanding outcomes and assisting
+            your company's social media growth and success.Our top lines of
+            services being- customer service that is quick to respond: We value
+            open lines of contact and are always available to our customers. We
+            are always available to address any queries or worries you may have
+            and are prompt and dependable.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
