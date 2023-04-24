@@ -30,14 +30,6 @@ export default function Team() {
               overflow={"hidden"}
             >
               <Stack>
-                <img
-                  className="col-span-2 max-h-12 object-contain lg:col-span-1"
-                  src="https://ninjapromo.io/wp-content/themes/ninjapromo/assets/img/reviews-section/logo-1.png"
-                  alt="Transistor"
-                  width={158}
-                  height={48}
-                />
-
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
@@ -65,14 +57,6 @@ export default function Team() {
               overflow={"hidden"}
             >
               <Stack>
-                <img
-                  className="col-span-2 max-h-12 object-contain lg:col-span-1"
-                  src="https://ninjapromo.io/wp-content/themes/ninjapromo/assets/img/reviews-section/logo-1.png"
-                  alt="Transistor"
-                  width={158}
-                  height={48}
-                />
-
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
@@ -100,14 +84,6 @@ export default function Team() {
               overflow={"hidden"}
             >
               <Stack>
-                <img
-                  className="col-span-2 max-h-12 object-contain lg:col-span-1"
-                  src="https://ninjapromo.io/wp-content/themes/ninjapromo/assets/img/reviews-section/logo-1.png"
-                  alt="Transistor"
-                  width={158}
-                  height={48}
-                />
-
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
