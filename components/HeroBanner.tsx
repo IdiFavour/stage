@@ -45,7 +45,7 @@ export default function HeroBanner() {
                   borderColor: "#121212",
                 }}
               >
-                Request A Free Proposal
+                Request A Proposal
               </a>
               <button className="text-sm font-semibold px-10 py-4 leading-6 text-gray-900">
                 Meet Stage <span aria-hidden="true">→</span>

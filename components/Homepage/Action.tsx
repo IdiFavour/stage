@@ -34,7 +34,7 @@ const Action = () => {
                   color: "#121212",
                 }}
               >
-                Request A Free Proposal
+                Request A Proposal
               </a>
             </div>
           </div>

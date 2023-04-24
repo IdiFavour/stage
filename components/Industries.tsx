@@ -28,11 +28,10 @@ export default function Industries() {
               Our Industries
             </h1>
             <p className="mt-6 text-base leading-7 text-gray-600">
-              Our creative digital marketing firm has helped a diverse range of
-              businesses and organizations achieve their advertising objectives.
-              With extensive experience working in numerous industries, we have
-              the insights and expertise to help you discover your true
-              potential.
+              Our expertise lies in various aspects of marketing, including
+              business-to-business, cryptocurrency, NFT, and high-growth startup
+              brands, which are our specialty. Explore our strategic services
+              below to see how we can help take your business to new heights.
             </p>
           </div>
         </div>

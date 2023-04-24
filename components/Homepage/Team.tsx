@@ -37,14 +37,7 @@ export default function Team() {
                   width={158}
                   height={48}
                 />
-                <Heading
-                  color={"white"}
-                  py={4}
-                  fontSize={"lg"}
-                  fontFamily={"body"}
-                >
-                  Boost your conversion rate
-                </Heading>
+
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
@@ -56,7 +49,7 @@ export default function Team() {
                 <Avatar src={"/shohin.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
-                    Achim Rolle
+                    Shohin Davlatov
                   </Text>
                   <Text color={"gray"}>Founder and CEO</Text>
                 </Stack>
@@ -79,14 +72,7 @@ export default function Team() {
                   width={158}
                   height={48}
                 />
-                <Heading
-                  color={"white"}
-                  py={4}
-                  fontSize={"lg"}
-                  fontFamily={"body"}
-                >
-                  Boost your conversion rate
-                </Heading>
+
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
@@ -121,14 +107,7 @@ export default function Team() {
                   width={158}
                   height={48}
                 />
-                <Heading
-                  color={"white"}
-                  py={4}
-                  fontSize={"lg"}
-                  fontFamily={"body"}
-                >
-                  Boost your conversion rate
-                </Heading>
+
                 <Text color={"white"} fontSize={"sm"}>
                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
                   diam nonumy eirmod tempor invidunt ut labore et dolore magna
@@ -137,18 +116,18 @@ export default function Team() {
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
-                <Avatar src={"/copywriter.jpg"} />
+                <Avatar src={"/bunyod.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
-                    Achim Rolle
+                    Bunyod Tabarov
                   </Text>
-                  <Text color={"gray"}>Copywriter</Text>
+                  <Text color={"gray"}>Creative Director</Text>
                 </Stack>
               </Stack>
             </Box>
           </div>
         </dl>
-        <div className=" py-10 pb-20">
+        {/* <div className=" py-10 pb-20">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <h1 className="text-4xl text-center tracking-tight text-white sm:text-4xl pb-10">
               Our Partners are Backed by the Best in Venture
@@ -191,7 +170,7 @@ export default function Team() {
               />
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="lg:text-center pt-20 px-4">
           <h1 className="text-4xl  tracking-tight text-white sm:text-5xl">
             Talk to a Full-Service Digital Marketing Agency About Your Business
