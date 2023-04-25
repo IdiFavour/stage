@@ -68,9 +68,9 @@ export default function Team() {
                 <Avatar src={"/headofteam.jpg"} />
                 <Stack direction={"column"} spacing={0} fontSize={"sm"}>
                   <Text fontWeight={600} color={"gray"}>
-                    Achim Rolle
+                    Nandini Mukherjee
                   </Text>
-                  <Text color={"gray"}>Head of Team</Text>
+                  <Text color={"gray"}>Head of the Team</Text>
                 </Stack>
               </Stack>
             </Box>

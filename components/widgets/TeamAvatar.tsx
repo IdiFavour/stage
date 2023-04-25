@@ -52,11 +52,11 @@ function ProductAddToCart() {
         <Box p="6">
           <Flex mt="1" justifyContent="space-between" alignContent="center">
             <Box fontWeight="semibold" lineHeight="tight" isTruncated>
-              <Text fontSize={"md"}>Achim Rolle</Text>
+              <Text fontSize={"md"}>Nandini Mukherjee</Text>
             </Box>
           </Flex>
           <Text fontSize={"sm"} color={"gray"}>
-            Head of Team
+            Head of the Team
           </Text>
         </Box>
       </Box>
