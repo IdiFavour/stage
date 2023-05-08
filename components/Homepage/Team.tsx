@@ -31,10 +31,13 @@ export default function Team() {
             >
               <Stack>
                 <Text color={"white"} fontSize={"sm"}>
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                  justo duo dolores et ea rebum.
+                  As the founder of our DvlMedia, I am proud to say that we are
+                  a data-driven partner dedicated to helping our clients
+                  succeed. Our team takes the time to thoroughly examine each
+                  client's branding, messaging, and positioning to develop
+                  customized strategies and content that align with their
+                  business goals. We believe in providing valuable insights to
+                  help our clients grow and scale their businesses.
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
@@ -58,10 +61,10 @@ export default function Team() {
             >
               <Stack>
                 <Text color={"white"} fontSize={"sm"}>
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                  justo duo dolores et ea rebum.
+                  Leading the team at DvlMedia, I am proud to work with a
+                  talented group of professionals who are dedicated to providing
+                  our clients with customized strategies and content that align
+                  with their unique branding, messaging, and positioning.
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
@@ -70,7 +73,7 @@ export default function Team() {
                   <Text fontWeight={600} color={"gray"}>
                     Nandini Mukherjee
                   </Text>
-                  <Text color={"gray"}>Head of the Team</Text>
+                  <Text color={"gray"}>Head of Team</Text>
                 </Stack>
               </Stack>
             </Box>
@@ -85,10 +88,12 @@ export default function Team() {
             >
               <Stack>
                 <Text color={"white"} fontSize={"sm"}>
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                  justo duo dolores et ea rebum.
+                  As the Creative Director of dvlmedia, my team and I are
+                  dedicated to creating customized strategies and content that
+                  align with each client's branding, messaging, and positioning.
+                  We believe in a data-driven approach to achieve the best
+                  results for our clients and provide valuable insights to help
+                  them grow and scale their businesses.
                 </Text>
               </Stack>
               <Stack mt={6} direction={"row"} spacing={4} align={"center"}>
